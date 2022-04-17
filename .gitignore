@@ -29,3 +29,6 @@ build/
 .DS_Store
 
 .env
+
+
+chromedriver.exe
